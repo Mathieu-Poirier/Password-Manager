@@ -8,7 +8,7 @@ from datetime import timedelta
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'wefsdfsdfgrea*&YB#*BDNS'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:postgres@localhost/postgres'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'YOUR_POSTGRESQL_DATABASE'
 app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(minutes=30)
 
 db = SQLAlchemy(app)
