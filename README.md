@@ -20,6 +20,8 @@ CRUD Operations: Currently, create, read and delete operations are available (wo
 Password Encryption: Utilizes Flask-SQLAlchemy for database interactions and ensures password security using hash functions.
 Database (PostgreSQL)
 
+![Screenshot](./Images/sc2.png)
+
 Data Storage: Persistent storage of user credentials.
 Relational Database: Utilizes PostgreSQL to establish relationships between users and their credentials.
 Discussion
