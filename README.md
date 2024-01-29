@@ -42,7 +42,7 @@ The Password Manager project aims to simplify the complexities of credential man
 Dashboard Features:
 Register and log in securely.
 Add, view, and delete credentials.
-Maintain data privacy with encrypted passwords or choose to store in plain text.
+Maintain data privacy with encrypted passwords or choose to store in plain text (default option for demo).
 Log out securely from the dashboard.
 
 ## Authors:
