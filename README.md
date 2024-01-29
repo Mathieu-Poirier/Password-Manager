@@ -12,6 +12,8 @@ Dashboard Interface: User-friendly dashboard for managing credentials.
 API Calls with Axios: Interaction with the Flask backend through secure API calls.
 React Router: Seamless navigation between components.
 
+![Screenshot](./Images/sc2.png)
+
 ![Screenshot](./Images/sc1.png)
 
 Backend (Flask):
@@ -19,8 +21,6 @@ User Authentication: Secure registration and login functionality.
 CRUD Operations: Currently, create, read and delete operations are available (would have to implement a system to add a new credential and delete the old one to implement editing)
 Password Encryption: Utilizes Flask-SQLAlchemy for database interactions and ensures password security using hash functions.
 Database (PostgreSQL)
-
-![Screenshot](./Images/sc2.png)
 
 Data Storage: Persistent storage of user credentials.
 Relational Database: Utilizes PostgreSQL to establish relationships between users and their credentials.
