@@ -12,7 +12,7 @@ Dashboard Interface: User-friendly dashboard for managing credentials.
 API Calls with Axios: Interaction with the Flask backend through secure API calls.
 React Router: Seamless navigation between components.
 
-![Screenshot](sc1.png)
+![Screenshot](./Images/sc1.png)
 
 Backend (Flask):
 User Authentication: Secure registration and login functionality.
