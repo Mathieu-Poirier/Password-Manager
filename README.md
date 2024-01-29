@@ -35,9 +35,9 @@ Closing Thoughts
 The Password Manager project aims to simplify the complexities of credential management, providing users with a secure and user-friendly solution. The combination of React, Flask, and PostgreSQL offers a robust foundation for future enhancements and scalability. This project serves as a practical and valuable tool for individuals seeking an efficient way to organize and secure their online credentials.
 
 ## Usage Instructions
-Insert your PostgreSQL connection URI into Server/server.py.
-Run Flask Backend: Execute the Flask backend script (server.py).
-Run React App: Start the React app using npm start.
+- Insert your PostgreSQL connection URI into Server/server.py.
+- Run Flask Backend: Execute the Flask backend script (server.py).
+- Run React App: Start the React app using npm start.
 
 Dashboard Features:
 Register and log in securely.
