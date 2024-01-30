@@ -186,19 +186,14 @@ input {
 }
 
 .add-btn {
-  background-color: #2ecc71;
-  color: #fff;
+  color: #2ecc71;
   padding: 10px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  width: 100%; /* Add this line to make the button stretch to full width */
-  transition: background-color 0.3s; /* Add a smooth transition for a better visual effect */
+  width: 100%; /* Add this line to make the button stretch to full width *//* Add a smooth transition for a better visual effect */
 }
 
-.add-btn:hover {
-  background-color: #27ae60; /* Change the background color on hover */
-}
 
 .credentials-table {
   width: 100%;
@@ -249,16 +244,6 @@ input {
   padding: 0.5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
-}
-
-.add-btn {
-  width: 100px; /* Adjust the width based on your preference */
-  padding: 0.5rem;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
 }
 
 .add-credential-title {
