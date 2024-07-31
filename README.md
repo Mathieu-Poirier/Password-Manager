@@ -1,6 +1,6 @@
 # Password Manager
-Abstract
-This Password Manager project provides a secure and user-friendly platform for managing and storing credentials. The application is built using React for the front end, Flask for the backend, and PostgreSQL for data storage. Users can securely register, log in, add, view, and delete credentials while maintaining data privacy.
+## Abstract:
+This password manager project provides a secure and user-friendly platform for managing and storing credentials. The application is built using React for the front end, Flask for the backend, and PostgreSQL for data storage. Users can securely register, log in, add, view, and delete credentials while maintaining data privacy.
 
 ## Introduction
 In an era of increasing online activities, managing multiple credentials becomes challenging. The Password Manager addresses this issue by offering a centralized and secure solution for users to organize their usernames and passwords. The project emphasizes simplicity, security, and ease of use.
@@ -32,7 +32,7 @@ The Password Manager project focuses on providing a reliable and secure solution
 - Scalability: As the user base grows, scalability considerations need to be taken into account for optimal performance.
 
 ## Closing Thoughts
-This Password Manager project aims to simplify the complexities of credential management, providing users with a secure and user-friendly solution. The combination of React, Flask, and PostgreSQL offers a robust foundation for future enhancements and scalability. This project serves as a practical and valuable tool for individuals seeking an efficient way to organize and secure their online credentials.
+This project aims to simplify the complexities of credential management, providing users with a secure and user-friendly solution. The combination of React, Flask, and PostgreSQL offers a robust foundation for future enhancements and scalability. This project serves as a practical and valuable tool for individuals seeking an efficient way to organize and secure their online credentials.
 
 ## Dashboard Features:
 Register and log in securely.
