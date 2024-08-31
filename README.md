@@ -17,9 +17,6 @@ Database (PostgreSQL)
 ## Data Storage: Persistent storage of user credentials.
 Relational Database: Utilizes PostgreSQL to establish relationships between users and their credentials.
 
-## Discussion
-The Password Manager project focuses on providing a reliable and secure solution for users to manage their credentials. The integration of React and Flask ensures a smooth and responsive user experience, while PostgreSQL guarantees robust and efficient data storage. The project also emphasizes the importance of security measures to protect user information.
-
 ## Potential Issues
 - Security Concerns: Constant vigilance is required to address any potential vulnerabilities and ensure data security.
 - User Experience: Regular feedback and user testing are crucial to enhancing the user interface and experience.
