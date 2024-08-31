@@ -1,16 +1,10 @@
 # Password Manager
-## Abstract
-This password manager project provides a secure and user-friendly platform for managing and storing credentials. The application is built using React for the front end, Flask for the backend, and PostgreSQL for data storage. Users can securely register, log in, add, view, and delete credentials while maintaining data privacy.
 
-## Introduction
-In an era of increasing online activities, managing multiple credentials becomes challenging. The Password Manager addresses this issue by offering a centralized and secure solution for users to organize their usernames and passwords. The project emphasizes simplicity, security, and ease of use.
+## The Repository
 
-## Materials and Methods
-Frontend (React):
+This is a full-stack password manager built with Flask, PostgreSQL and React
 
-- Dashboard Interface: User-friendly dashboard for managing credentials.
-- API Calls with Axios: Interaction with the Flask backend through secure API calls.
-- React Router: Seamless navigation between components.
+## Screenshots
 
 ![Screenshot](./Images/sc1.png)
 
