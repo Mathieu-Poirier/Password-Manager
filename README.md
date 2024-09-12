@@ -21,7 +21,7 @@ This is a full-stack password manager built with Flask, PostgreSQL and React
 - Log out securely from the dashboard.
 
 ## Data Storage
-Relational Database: Utilizes PostgreSQL to establish relationships between users and their credentials.
+- Relational Database: Utilizes PostgreSQL to establish relationships between users and their credentials.
 
 ## Issues, Errors and Further Steps
 - Security Concerns: Constant vigilance is required to address any potential vulnerabilities and ensure data security.
