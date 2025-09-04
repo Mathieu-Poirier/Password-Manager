@@ -4,7 +4,7 @@
 
 This is a full-stack password manager built with Flask, PostgreSQL and React
 
-## Screenshots
+## Dashboard Demo
 
 ![Screenshot](./Images/sc1.png)
 
