@@ -10,7 +10,7 @@ This is a full-stack password manager built with Flask, PostgreSQL and React
 
 ## Backend
 - User Authentication: Secure registration and login functionality.
-- CRUD Operations: Currently, create, read and delete operations are available (would have to implement a system to add a new credential and delete the old one to implement editing)
+- CRUD Operations: Currently, create, read and delete operations are available for saved passwords
 - Password Encryption: Utilizes Flask-SQLAlchemy for database interactions and ensures password security using hash functions.
 - Database (PostgreSQL)
 
